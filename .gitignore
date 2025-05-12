@@ -1,1 +1,50 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
 
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# NuGet packages
+*.nupkg
+# Ignore packages folder unless it's required
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Dotnet tools restore location
+.dotnet/tools/
+
+# Logs
+*.log
+
+# Environment configuration
+.env
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Test results
+TestResults/
+
+# JetBrains Rider settings and ReSharper
+_ReSharper*/
+.idea/
+
+# Visual Studio folder
+.vs/
