@@ -1,1 +1,3 @@
-# Dulooo Katro Thulo
+The Population Information Reporting System is a C# application developed for an organization that requires comprehensive access to global population data.
+The system leverages the World database (provided by MySQL) to enable users to generate various structured reports regarding the population of countries, cities, and capital cities across different geographic scopes.
+The application is built using C# and MySQL, with a focus on reliability, usability, and efficient data retrieval. To ensure systematic development and continuous delivery of working software, the project follows the Scrum methodology, with work broken down into sprints, each delivering a functional set of reporting features.
